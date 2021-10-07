@@ -1,3 +1,6 @@
+//String Compare: Checked if the strings are equal or not.
+
+
 #include <iostream>
 #include <algorithm>
 using namespace std;
